@@ -1,0 +1,36 @@
+CONTAINER ID   NAME                CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+df5668709cd7   publish_service     0.00%     16.36MiB / 9.535GiB   0.17%     4.5kB / 1.28kB    0B / 0B      1
+d955f70538d3   screaming_service   0.00%     14.64MiB / 9.535GiB   0.15%     4.65kB / 1.28kB   0B / 0B      1
+0ee7ed27eca4   filter_service      0.00%     14.64MiB / 9.535GiB   0.15%     4.73kB / 1.27kB   0B / 0B      1
+08c775292f86   rest_api_service    0.18%     42.27MiB / 9.535GiB   0.43%     4.7kB / 1.14kB    0B / 0B      5
+15fbd0d6cd0e   services-rabbit-1   0.22%     142.3MiB / 9.535GiB   1.46%     12.5kB / 5.22kB   0B / 631kB   49
+ 
+spam.sh completed in 7306.
+ 
+spam.sh completed in 7479.
+ 
+spam.sh completed in 7322.
+ 
+spam.sh completed in 7277.
+ 
+spam.sh completed in 7241.
+ 
+spam.sh completed in 7209.
+ 
+spam.sh completed in 7202.
+ 
+spam.sh completed in 7779.
+ 
+spam.sh completed in 7210.
+ 
+spam.sh completed in 7136.
+ 
+spam.sh completed in 7202.
+ 
+spam.sh completed in 7452.
+ 
+spam.sh completed in 7543.
+ 
+spam.sh completed in 7694.
+ 
+spam.sh completed in 7843.

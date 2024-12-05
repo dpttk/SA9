@@ -1,0 +1,32 @@
+CONTAINER ID   NAME                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O   PIDS
+7a17270a1a4b   pipes-filters-pipes-filters-1   0.13%     56.44MiB / 9.535GiB   0.58%     2.86kB / 0B   0B / 0B     9
+ 
+spam.sh completed in 7459.
+ 
+spam.sh completed in 7325.
+ 
+spam.sh completed in 7289.
+ 
+spam.sh completed in 7224.
+ 
+spam.sh completed in 7419.
+ 
+spam.sh completed in 7237.
+ 
+spam.sh completed in 7394.
+ 
+spam.sh completed in 7430.
+ 
+spam.sh completed in 7431.
+ 
+spam.sh completed in 7367.
+ 
+spam.sh completed in 7319.
+ 
+spam.sh completed in 7023.
+ 
+spam.sh completed in 7266.
+ 
+spam.sh completed in 7287.
+ 
+spam.sh completed in 7331.
