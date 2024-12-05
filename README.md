@@ -6,13 +6,11 @@ Linux Os
 
 Curl command
 
-
 # Run Services
 
-```
-git clone https://dpttk/SA9.git
-docker compose up -d
-```
+1) clone repo
+2) add your email credits to env file (services/env and pipes-filters/env)
+3) deploy docker via `docker compose up -d` in services or pipes directory
 
 # Run Test
 
