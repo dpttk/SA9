@@ -1,3 +1,5 @@
+#TEAM_20
+
 # Req-s
 
 Docker Comunity Edition
@@ -28,7 +30,7 @@ cd pipes-filters
 ./check.sh
 ```
 
-# Team members:
+# Team members: (team 20)
 
 - Mikhail Dudinov (m.dudinov@innopolis.university)
 - Ivan Platonov (i.platonov@innopolis.university)
